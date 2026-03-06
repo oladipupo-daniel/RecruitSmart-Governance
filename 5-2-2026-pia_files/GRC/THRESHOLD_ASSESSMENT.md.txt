@@ -1,0 +1,40 @@
+The 10 EDPB Screening Criteria
+Evaluation or Scoring: Are you assessing people based on characteristics, performance, or behavior?
+
+RecruitSmart: YES (The Match-Score).
+
+Automated Decision-Making with Legal/Significant Effect: Does the AI make a decision that could get someone a job or lose them an opportunity?
+
+RecruitSmart: YES (Filtering candidates).
+
+Systematic Monitoring: Is the processing used to observe, monitor, or control data subjects? (e.g., tracking a candidate's clicks on the portal).
+
+Sensitive Data / Highly Personal Data: Does it involve political opinions, health data, or private communications?
+
+Data Processed on a Large Scale: Does it involve a high number of individuals, a large volume of data, or a long duration?
+
+RecruitSmart (for MDAs): YES (National-level recruitment).
+
+Matching or Combining Datasets: Are you linking data from different sources (e.g., pulling a candidate's LinkedIn data and matching it with their CV)?
+
+Data Concerning Vulnerable Data Subjects: Does it involve children, employees (power imbalance), or asylum seekers?
+
+RecruitSmart: YES (The employer-employee relationship is considered a "vulnerable" power imbalance by the CNIL).
+
+Innovative Use or Applying New Technological/Organizational Solutions: Does it use AI, Biometrics, or IoT in a way that hasn't been standard before?
+
+RecruitSmart: YES (NLP and Deep Learning).
+
+International Transfers Outside the EU/EEA: Does data move to countries without an "Adequacy Decision"?
+
+Prevents Data Subjects from Exercising a Right or Using a Service: Does the processing decide if someone can enter a contract or access a service?
+
+RecruitSmart: YES (Access to an employment contract).
+
+Executive Summary of Threshold Analysis
+
+Project: RecruitSmart AI
+
+Criteria Met: 6 out of 10
+
+Determination: High Risk. A full Data Protection Impact Assessment (DPIA) is required under GDPR Article 35.
